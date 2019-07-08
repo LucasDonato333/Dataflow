@@ -2,12 +2,11 @@
 
 Execute para clonar o projeto.
 ```linux
-cd ~
 git clone https://github.com/GoogleCloudPlatform/training-data-analyst
 ```
 Entre na pasta
 ```linux
-cd ~/training-data-analyst/courses/data_analysis/lab2/python
+cd training-data-analyst/courses/data_analysis/lab2/python
 ```
 Execute o pacote de instalação
 ```linux
