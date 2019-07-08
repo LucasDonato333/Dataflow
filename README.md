@@ -33,8 +33,10 @@ Edite o arquivo
 nano grepc.py
 ```
 ```
-CTRL-x - Sai do editor. Se você estiver no meio da edição de um arquivo, o processo de saída irá perguntar se você quer salvar seu trabalho.
-CTRL-R - Ler um arquivo em seu arquivo de trabalho atual. Isso permite que você adicione o texto de outro arquivo enquanto trabalha dentro de um novo arquivo.
+CTRL-x - Sai do editor. Se você estiver no meio da edição de um arquivo,
+          o processo de saída irá perguntar se você quer salvar seu trabalho.
+CTRL-R - Ler um arquivo em seu arquivo de trabalho atual. Isso permite 
+          que você adicione o texto de outro arquivo enquanto trabalha dentro de um novo arquivo.
 CTRL-c - Mostra a posição atual do cursor.
 CTRL-k - 'recorta' o texto.
 CTRL-U - 'cola' o texto.
