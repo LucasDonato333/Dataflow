@@ -29,8 +29,9 @@ Entre na pasta.
 cd ~/training-data-analyst/courses/data_analysis/lab2/python
 ```
 Edite o arquivo
+```linux
 nano grepc.py
-
+```
 Mude o "bucket" e "project" para:
 ```
 bucket = 'multic-carga-manual'
